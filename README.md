@@ -13,7 +13,7 @@
 ## Como usar
 > O app tem somente uma tela,onde são executadas todas as ações <br>
 > Para buscar um projeto, basta buscar pelo nome de usuario e o nome do repositório. Ex: `Ralisson-mattias/realmDB` <br>
-> Repositórios inexistente ou com digitação incorreta, não serão validados
+> Repositórios inexistente ou com digitação incorreta, não serão validados <br>
 > O botão de atualização serve pra detectar mudanças nos números de forks ou stars
 
 #### Links
